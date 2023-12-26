@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body: Montserrat;
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --body-size: 20px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-darkgray: #a9a3a3;
+  --color-white: #fff;
+  --color-crimson: #e84040;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-31xl: 50px;
+  --padding-11xl: 30px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}
